@@ -7,7 +7,14 @@ Sales Funnel Analysis
 
 # Funneling by Traffic Source.  
 
-:--- stage_1_views, stage_2_cart, view_to_cart_rate, stage_3_checkout, cart_to_checkout_rate, stage_4_payment, checkout_to_payment_rate, stage_5_purchase, payment_to_purchase_rate, overall_conversion_rate
+| Traffic Source | Views | Carts | Purchases | Cart Conv. % | Purchase Conv. % | Cart-to-Purchase % |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Organic** | 2,029 | 664 | 341 | 33% | 17% | 51% |
+| **Paid Ads** | 966 | 358 | 204 | 37% | 21% | 57% |
+| **Email** | 522 | 326 | 177 | 62% | 34% | 54% |
+| **Social** | 1,468 | 199 | 102 | 14% | 7% | 51% |
+
+stage_1_views, stage_2_cart, view_to_cart_rate, stage_3_checkout, cart_to_checkout_rate, stage_4_payment, checkout_to_payment_rate, stage_5_purchase, payment_to_purchase_rate, overall_conversion_rate
 4985	         1547	         31	                 1100	            71	                   896	             81	                       824	             92	                       17
 
 Email conversion rate being 62% is excellent.  Social media is only convering 14%. Email has the lowest views but as stated it coverts the best.
