@@ -7,7 +7,7 @@ Used SQL to find the sales funnel and see how effective it is.  Showing an overa
 
 # Funneling by Traffic Source.  
 
-Email conversion rate being 62% is excellent.  Social media is only convering 14%. Email has the lowest views but as stated it coverts the best.
+Email conversion rate being 62% is excellent.  Social media is only converting 14%. Email has the lowest views but as stated it coverts the best.
 
 | Traffic Source | Views | Carts | Purchases | Cart Conv. % | Purchase Conv. % | Cart-to-Purchase % |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
