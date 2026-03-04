@@ -5,6 +5,15 @@ Used SQL to find the sales funnel and see how effective it is.  Showing an overa
 
 31% views to cart is low. Data showing a high amount of window shopping potentionally.
 
+| Funnel Stage | Volume | Stage-to-Stage Conv. % |
+| :--- | :--- | :--- |
+| **Stage 1: Views** | 4,985 | — |
+| **Stage 2: Cart** | 1,547 | 31% |
+| **Stage 3: Checkout** | 1,100 | 71% |
+| **Stage 4: Payment** | 896 | 81% |
+| **Stage 5: Purchase** | 824 | 92% |
+| **Overall Conversion** | — | **17%** |
+
 # Funneling by Traffic Source.  
 
 Email conversion rate being 62% is excellent.  Social media is only converting 14%. Email has the lowest views but as stated it coverts the best.
@@ -16,14 +25,7 @@ Email conversion rate being 62% is excellent.  Social media is only converting 1
 | **Email** | 522 | 326 | 177 | 62% | 34% | 54% |
 | **Social** | 1,468 | 199 | 102 | 14% | 7% | 51% |
 
-| Funnel Stage | Volume | Stage-to-Stage Conv. % |
-| :--- | :--- | :--- |
-| **Stage 1: Views** | 4,985 | — |
-| **Stage 2: Cart** | 1,547 | 31% |
-| **Stage 3: Checkout** | 1,100 | 71% |
-| **Stage 4: Payment** | 896 | 81% |
-| **Stage 5: Purchase** | 824 | 92% |
-| **Overall Conversion** | — | **17%** |
+
 
 
 
