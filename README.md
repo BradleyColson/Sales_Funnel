@@ -31,8 +31,15 @@ Email conversion rate being 62% is excellent.  Social media is only convering 14
 
 # SQL Sales Funnel Revenue
 
-total_visitors, total_buyers, total_revenue, total_orders, avg_order_value, revenue_per_buyer, revenue_per_visitor
-4985	          824	           87746.54	      824	          106.49	         106.49	             17.6
+| Metric | Value |
+| :--- | :--- |
+| **Total Visitors** | 4,985 |
+| **Total Buyers** | 824 |
+| **Total Orders** | 824 |
+| **Total Revenue** | **$87,746.54** |
+| **Average Order Value (AOV)** | $106.49 |
+| **Revenue per Buyer** | $106.49 |
+| **Revenue per Visitor** | $17.60 |
 
 
 1. Checkout Design
