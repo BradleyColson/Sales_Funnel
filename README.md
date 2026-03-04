@@ -1,4 +1,4 @@
-# Sales_Funnel
+# Sales Funnel
 Sales Funnel Analysis
 
 #Used SQL to find the sales funnel and see how effective it is.  Showing an overall 92% payment to purchase rate. This is excellent.
