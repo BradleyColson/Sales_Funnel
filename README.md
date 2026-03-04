@@ -50,10 +50,10 @@ The Conversion rates from Checkout to Purchase are excellent at 0%
 Stop over investing in Social for Sales. Social Media is driving 30% of the traffic but has the lowest conversion rate. We're paying for window shopping.
   Action: Shift budget away from Traffic objectives on social media ads and focus on retargeting to capture emails instead.
 
-Double down on email marketing. Email is the highest converting channel 13% vs 6% for social.
+  Double down on email marketing. Email is the highest converting channel 13% vs 6% for social.
   Action: Implement an agressive email capture pop up for high volume social visitors.If they can be captured via email, the data proves they are more likely to buy later.
 
 3. Financial Revenue
 
 Average order value is $106.
-Action: Set a strict customer acquisition cost limit. If we are paying more than $30-40 to acquire a customer via social media ads , which converted poorly, we are likely losiong money on those transactions.
+  Action: Set a strict customer acquisition cost limit. If we are paying more than $30-40 to acquire a customer via social media ads , which converted poorly, we are likely losiong money on those transactions.
