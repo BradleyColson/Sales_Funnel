@@ -55,5 +55,5 @@ Stop over investing in Social for Sales. Social Media is driving 30% of the traf
 
 3. Financial Revenue
 
-Average order value is $106.
+  Average order value is $106.
   Action: Set a strict customer acquisition cost limit. If we are paying more than $30-40 to acquire a customer via social media ads , which converted poorly, we are likely losiong money on those transactions.
