@@ -5,7 +5,7 @@ Sales Funnel Analysis
 
 31% views to cart is low. Data showing a high amount of window shopping potentionally.
 
-# Funneling by traffic source.  
+# Funneling by Traffic Source.  
 
 stage_1_views, stage_2_cart, view_to_cart_rate, stage_3_checkout, cart_to_checkout_rate, stage_4_payment, checkout_to_payment_rate, stage_5_purchase, payment_to_purchase_rate, overall_conversion_rate
 4985	         1547	         31	                 1100	            71	                   896	             81	                       824	             92	                       17
